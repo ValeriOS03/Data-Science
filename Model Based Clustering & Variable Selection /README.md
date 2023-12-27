@@ -1,1 +1,1 @@
-Model Based Clustering & Variable Selection for WINE dataset 
+Model Based Clustering (Mixture Models) & Variable Selection for WINE dataset 
